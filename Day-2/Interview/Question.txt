@@ -1,0 +1,8 @@
+✅ Interview Question
+
+Q: What is the difference between break and continue in loops?
+Answer:
+
+break terminates the loop entirely.
+
+continue skips current iteration and moves to next.
