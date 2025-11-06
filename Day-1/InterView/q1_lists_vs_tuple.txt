@@ -1,0 +1,11 @@
+Day-1 Python Interview Question
+
+Q: What is the difference between list and tuple?
+
+Answer:
+
+List	                  Tuple
+Mutable (can change)	  Immutable (cannot change)
+Defined with []	          Defined with ()
+Slower	                  Faster
+Used for dynamic data	  Used for fixed data
