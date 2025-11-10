@@ -1,0 +1,6 @@
+✅ 5. Interview Q&A (Day-7)
+
+Q: What is list comprehension and why is it faster?
+✅ Answer:
+List comprehension is a short way to create lists using expressions inside brackets.
+It is faster because it uses optimized internal C loops, not Python-level loops.
