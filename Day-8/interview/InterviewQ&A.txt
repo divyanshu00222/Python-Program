@@ -1,0 +1,24 @@
+✅ 4. Interview Questions (with Answers)
+✅ Q1. What is OOP?
+
+Answer:
+OOP is a programming model that organizes code into objects that contain data + functions.
+
+✅ Q2. What is __init__?
+
+Answer:
+It is a constructor that automatically runs when an object is created.
+
+✅ Q3. Difference between class & object?
+
+Class → blueprint
+
+Object → instance created from class
+
+✅ Q4. What is inheritance?
+
+When a class derives properties/methods from another class.
+
+✅ Q5. What is polymorphism?
+
+One function behaving differently in different classes.
