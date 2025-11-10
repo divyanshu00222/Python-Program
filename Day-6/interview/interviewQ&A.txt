@@ -1,0 +1,10 @@
+✅ INTERVIEW QUESTION (Day-6)
+
+Q: What is the difference between local & global variables?
+
+✅ Answer:
+
+Local Variable	                                     Global Variable
+Declared inside function	                         Declared outside function
+Accessible only inside function	                     Accessible everywhere
+Created when function runs	                         Created when program starts
