@@ -1,0 +1,25 @@
+✅ 7. Interview Questions (With Answers)
+
+Folder:
+
+Day-09/interview/
+
+✅ Q1. What is a decorator?
+
+A function that modifies another function without changing its code.
+
+✅ Q2. What is exception handling?
+
+A method to handle runtime errors using try/except blocks.
+
+✅ Q3. Difference between class method & static method?
+Type	Access	Use
+Class Method	cls	Works with class variables
+Static Method	none	Independent utility functions
+✅ Q4. What is multiple inheritance?
+
+When a class inherits from more than one parent class.
+
+✅ Q5. Why use modules?
+
+To organize code into reusable components.
