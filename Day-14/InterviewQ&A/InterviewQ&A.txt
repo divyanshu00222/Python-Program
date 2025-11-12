@@ -1,0 +1,19 @@
+✅ Q1. Difference between linear and binary search?
+Linear Search	Binary Search
+Sequential	Divide and conquer
+Works on unsorted data	Requires sorted data
+✅ Q2. Time complexity of binary search?
+
+O(log n)
+
+✅ Q3. What is stable sorting?
+
+A sorting algorithm that maintains the relative order of equal elements (e.g., Merge Sort).
+
+✅ Q4. Fastest sorting algorithm?
+
+QuickSort / MergeSort (average O(n log n))
+
+✅ Q5. Which is better: iterative or recursive binary search?
+
+Iterative is memory-efficient, but recursive is easier to understand.
