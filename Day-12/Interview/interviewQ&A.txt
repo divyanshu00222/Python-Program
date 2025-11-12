@@ -1,21 +1,19 @@
-✅ Q1. What is recursion?
-
-A function calling itself until a base condition is met.
-
-✅ Q2. Difference between *args and **kwargs?
-
-*args → variable number of positional arguments
-
-**kwargs → variable number of keyword arguments
-
-✅ Q3. What is a closure?
-
-A function defined inside another function that remembers the outer function’s variables.
-
-✅ Q4. What is the use of os and shutil?
-
-Used for file management and folder automation.
-
-✅ Q5. Why prefer recursion over loops?
-
-Cleaner for problems like factorial, Fibonacci, and tree traversals.
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "21d6e085",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "language_info": {
+   "name": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}

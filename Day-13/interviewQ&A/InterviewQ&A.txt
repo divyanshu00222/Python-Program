@@ -1,0 +1,19 @@
+✅ Q1. Difference between Stack and Queue?
+Stack	Queue
+LIFO	FIFO
+Uses push/pop	Uses enqueue/dequeue
+✅ Q2. What is a Linked List?
+
+A data structure of connected nodes, each containing data and a pointer to the next node.
+
+✅ Q3. Why use Linked List over arrays?
+
+Dynamic memory, faster insert/delete.
+
+✅ Q4. Can we use lists as stacks/queues in Python?
+
+✅ Yes, using append() and pop() methods.
+
+✅ Q5. What is a node?
+
+A unit of data and pointer reference in a linked list.
