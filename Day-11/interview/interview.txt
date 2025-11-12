@@ -1,0 +1,19 @@
+✅ Q1. What is a lambda function?
+
+A small, anonymous function written in one line using lambda.
+
+✅ Q2. Difference between map() and filter()?
+map()	filter()
+Transforms each element	Filters based on condition
+Returns all elements	Returns subset only
+✅ Q3. What is reduce() used for?
+
+To apply a rolling operation that reduces a list to a single value.
+
+✅ Q4. Why use generators?
+
+They save memory and generate data on demand.
+
+✅ Q5. Can lambda have multiple expressions?
+
+❌ No, lambda can contain only one expression.
