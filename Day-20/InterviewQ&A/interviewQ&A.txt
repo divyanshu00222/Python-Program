@@ -1,0 +1,38 @@
+Q1: What is the difference between Linear and Binary Search?
+
+Answer:
+
+Feature	Linear	Binary
+Requirement	Works on any array	Needs sorted array
+Time	O(n)	O(log n)
+Space	O(1)	O(1)
+Approach	Sequential scan	Divide and conquer
+Q2: What is a Binary Search Tree?
+
+Answer:
+A BST is a data structure where:
+
+Each node has at most two children.
+
+Left child < Root < Right child.
+
+Q3: Why is BST better than a normal list for searching?
+
+Answer:
+Because search, insert, and delete operations in BST take O(log n) time, while in a list they take O(n).
+
+Q4: What are the traversal types in a BST?
+
+Answer:
+
+Inorder (Left, Root, Right) – Sorted order.
+
+Preorder (Root, Left, Right) – Used in tree copying.
+
+Postorder (Left, Right, Root) – Used in deletion.
+
+Q5: What happens if a BST is unbalanced?
+
+Answer:
+It behaves like a linked list (worst-case time: O(n)).
+👉 Solution: Use AVL Trees or Red-Black Trees to stay balanced.
