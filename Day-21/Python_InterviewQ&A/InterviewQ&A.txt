@@ -1,0 +1,37 @@
+Q1: What is a Linked List?
+
+Answer:
+A data structure consisting of nodes connected by pointers. Each node contains data and a reference to the next node.
+
+Q2: Why use Linked Lists instead of Arrays?
+
+Answer:
+✅ Dynamic size
+✅ Easier insertion/deletion
+❌ Slower access time (O(n))
+
+Q3: What is the time complexity of insertion and deletion?
+
+Answer:
+
+Insert/Delete at head → O(1)
+
+Insert/Delete at end → O(n)
+
+Q4: What are common real-world uses of linked lists?
+
+Answer:
+
+Undo/Redo features
+
+Browser history
+
+Music playlist rotation
+
+Memory management systems
+
+Q5: What’s the difference between singly, doubly, and circular lists?
+Type	Direction	Last Node	Example
+Singly	Forward	None	Simple list
+Doubly	Forward + Backward	None	Browser back/next
+Circular	Forward (loops)	Points to head	Round robin scheduling
