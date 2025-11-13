@@ -1,0 +1,64 @@
+🧩 Q1. What is the difference between List and Dictionary in Python?
+
+Answer:
+
+Feature	List	Dictionary
+Structure	Ordered collection of items	Key-Value pairs
+Access	Access by index (e.g., my_list[0])	Access by key (e.g., my_dict["key"])
+Example	[10, 20, 30]	{"name": "Divyanshu", "age": 23}
+Use Case	When order matters	When you need fast lookup or mapping
+
+✅ Tip: Use List for sequences, and Dict for relationships.
+
+⚡ Q2. How does Hashing improve lookup time?
+
+Answer:
+
+Hashing converts keys into a fixed-size number (called hash value).
+
+In Python, dictionaries use hashing internally.
+
+Lookup time becomes O(1) on average because you jump directly to the memory address instead of searching sequentially.
+
+📘 Example:
+
+users = {"divyanshu": 23, "sayali": 24}
+print(users["divyanshu"])  # Direct access using hash
+
+🧭 Q3. What is BFS and DFS? Where are they used?
+
+Answer:
+
+BFS (Breadth-First Search):
+Visits nodes level by level using a queue.
+🔹 Used in finding shortest paths or nearby connections.
+
+DFS (Depth-First Search):
+Visits as deep as possible before backtracking using a stack or recursion.
+🔹 Used in maze solving, cycle detection, and backtracking problems.
+
+📘 Example BFS Use: Google Maps shortest route
+📘 Example DFS Use: File explorer (drilling into folders)
+
+🌐 Q4. Explain how Graph traversal is used in real life.
+
+Answer:
+
+Social Networks: Finding friend suggestions (mutual connections).
+
+Navigation Apps: Shortest route (Google Maps uses BFS + Dijkstra).
+
+Recommendation Systems: Finding similar users or products.
+
+Networking: Finding reachable devices in a network.
+
+⏱ Q5. What is the time complexity of BFS?
+
+Answer:
+
+Time Complexity: O(V + E)
+where V = number of vertices, E = number of edges.
+
+Space Complexity: O(V) (due to queue + visited set)
+
+✅ Reason: Every node and edge is visited exactly once.
