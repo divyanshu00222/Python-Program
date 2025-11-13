@@ -1,0 +1,31 @@
+Q1: What is the difference between stable and unstable sorting?
+
+Answer:
+
+Stable: Keeps the order of equal elements (like Merge Sort).
+
+Unstable: May change order (like Quick Sort).
+
+Q2: What is the best sorting algorithm for large datasets?
+
+Answer:
+✅ Merge Sort — O(n log n), stable, great for linked lists and large data.
+
+Q3: What is the average and worst-case time complexity of Quick Sort?
+
+Answer:
+
+Average: O(n log n)
+
+Worst: O(n²) when pivot is poorly chosen.
+
+Q4: What sorting algorithms are built into Python?
+
+Answer:
+Python uses Timsort, a hybrid of Merge + Insertion Sort.
+✅ Best case: O(n), Worst: O(n log n).
+
+Q5: What’s the space complexity of Merge Sort vs Quick Sort?
+Algorithm	Time	Space	Stable
+Merge Sort	O(n log n)	O(n)	✅ Yes
+Quick Sort	O(n log n)	O(log n)	❌ No
