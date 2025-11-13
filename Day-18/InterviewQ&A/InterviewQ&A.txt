@@ -1,0 +1,39 @@
+Q1: What is Recursion?
+
+Answer:
+Recursion is when a function calls itself to solve smaller subproblems until reaching a base case.
+
+Q2: What is a Base Case and Recursive Case?
+
+Answer:
+
+Base Case: Condition to stop recursion.
+
+Recursive Case: Function calling itself again.
+
+Example:
+
+def factorial(n):
+    if n == 0:  # Base case
+        return 1
+    return n * factorial(n-1)  # Recursive case
+
+Q3: What happens if there’s no base case?
+
+Answer:
+The function calls itself infinitely, causing a RecursionError (stack overflow).
+
+Q4: What is the difference between Recursion and Iteration?
+Feature	Recursion	Iteration
+Uses	Function calls	Loops
+Memory	Uses Call Stack	Constant memory
+Readability	Simple for complex problems	Faster execution
+Example	Tower of Hanoi	For loop
+Q5: What is the maximum recursion depth in Python?
+
+Answer:
+By default, Python allows around 1000 recursive calls before a RecursionError.
+You can check using:
+
+import sys
+print(sys.getrecursionlimit())
