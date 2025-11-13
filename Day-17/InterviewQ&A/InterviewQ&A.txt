@@ -1,0 +1,29 @@
+Q1: What’s the main difference between Stack and Queue?
+A:
+
+Stack → LIFO (Last In, First Out)
+
+Queue → FIFO (First In, First Out)
+
+Q2: Where are Stacks used in real life?
+A:
+
+Function call stacks (recursion)
+
+Undo/Redo features
+
+Expression evaluation (postfix/prefix)
+
+Q3: What is the time complexity of stack and queue operations?
+A:
+
+Push / Pop / Enqueue / Dequeue → O(1)
+
+Q4: How is a Queue implemented in Python?
+A:
+Using collections.deque or queue.Queue.
+
+Q5: What is a Priority Queue?
+A:
+It processes elements based on priority, not order of insertion.
+Implemented using the heapq library in Python.
