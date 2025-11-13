@@ -1,0 +1,22 @@
+✅ Q1. Why is QuickSort better than Bubble Sort?
+
+It divides the array into parts and sorts them recursively — fewer comparisons.
+
+✅ Q2. What is a Binary Search Tree?
+
+A hierarchical data structure where left < root < right.
+
+✅ Q3. What is the time complexity of QuickSort?
+
+Average: O(n log n)
+
+Worst: O(n²)
+
+✅ Q4. What is recursion?
+
+A function calling itself to solve smaller parts of a problem.
+
+✅ Q5. How is a tree different from a linked list?
+Tree	Linked List
+Hierarchical	Linear
+Multiple children	Single next pointer
