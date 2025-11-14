@@ -1,0 +1,23 @@
+Q1. What is binary search?
+
+Binary search repeatedly divides array into halves until the target is found.
+Needs sorted array.
+
+Q2. Which sorting is fastest?
+
+Quick Sort → Average O(n log n).
+
+Q3. Which is used by Python’s sort()?
+
+Timsort → combination of merge sort + insertion sort.
+
+Q4. Time complexity of bubble sort?
+
+O(n²)
+
+Q5. Where is binary search used?
+
+✔ Databases
+✔ Libraries
+✔ Searching in files
+✔ Competitive programming
