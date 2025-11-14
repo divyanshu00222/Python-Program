@@ -1,0 +1,29 @@
+💬 7️⃣ Python Interview Q&A
+1️⃣ What is hashing?
+
+Hashing converts input into a fixed-size number using a hash function.
+
+2️⃣ What is a collision?
+
+When two different keys map to the same hash value.
+
+3️⃣ How to handle collisions?
+
+Chaining (using list inside bucket)
+
+Open addressing
+
+4️⃣ Why is Python dict so fast?
+
+Open addressing
+
+Dynamic resizing
+
+O(1) average time
+
+5️⃣ Real-world applications of hashing
+
+✔ Password storage
+✔ Caches
+✔ Database indexing
+✔ Blockchain hashing
