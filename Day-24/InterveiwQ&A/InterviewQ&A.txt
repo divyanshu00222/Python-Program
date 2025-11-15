@@ -1,0 +1,27 @@
+Q1. What is the difference between stack and queue?
+
+Stack → LIFO
+Queue → FIFO
+
+Q2. Applications of Stack
+
+✔ Undo/Redo
+✔ Recursion
+✔ Expression evaluation
+✔ Browser history
+
+Q3. Applications of Queue
+
+✔ OS process scheduling
+✔ Print queue
+✔ Networking
+
+Q4. Time complexity of push/pop?
+
+Stack → O(1)
+Queue → O(1)
+
+Q5. What is deque?
+
+Double ended queue → fast append/popleft
+Used for stack + queue
